@@ -1,0 +1,15 @@
+FOOD001, Ham Sandwich, FOOD, 2, White bread, Egg, Ham
+FOOD002, Cheeseburger, FOOD, 7.15, Minced beef, Breadcrumbs, Mature cheddar, Bunch parsley, Egg
+FOOD003, Chicken Burger, FOOD, 6.5, Red cabbage, Rice vinegar, Ginger, Coriander, Lemongrass, Soy sauce, Lettuce, Breadcrumbs
+FOOD004, Beef Burger, FOOD, 8.15, Olive oil, Onion, Beef Steak mince, mixed dried herbs, Egg, Mature cheddar, White rolls
+FOOD005, Vegan Burger, FOOD, 7, Tomato, Red onion, Lettuce, Coleslaw, Egg
+BEVERAGE101, Milk Tea, BEVERAGE, 2.35, Milk, Black Tea
+BEVERAGE102, Coca-Cola, BEVERAGE, 5.5, Coca-Cola GB
+BEVERAGE103, Coffee - Espresso, BEVERAGE, 3, Hot black
+BEVERAGE104, Coffee - Americano, BEVERAGE, 1.2, Hot black
+BEVERAGE105, Coffee - Latte, BEVERAGE, 3.68, Ground espresso, Milk
+DESSERT201, Brownie, DESSERT, 5.5, Unsalted Butter, Dark Chocolate, Plain Flour, Egg, Sugar
+DESSERT202, Vanilla Ice Cream, DESSERT, 7.9, Carton double cream, Milk, Sugar, vanilla, Egg
+DESSERT203, Carrot Cake, DESSERT, 6.65, Sunflower oil, Egg, Carrot, Raisins, Orange, Flour, Soda, Cinnamon, Nutmeg, Sugar
+DESSERT204, Lemon Cake, DESSERT, 5.45, Unsalted butter, Sugar, Egg, Flour, Lemon, Lemonade
+DESSERT205, Chocolate Cake, DESSERT, 8.6, Unsalted butter, Sugar, Egg, Flour, Cocoa powder, Milk, Vanilla

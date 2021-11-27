@@ -1,0 +1,34 @@
+Summary report
+--------------
+
+SUMMARY OF ORDERS:
+
+ID				Item		 	#Orders
+FOOD001         Ham Sandwich        5    
+FOOD005         Vegan Burger        1    
+DESSERT203      Carrot Cake         3    
+FOOD004         Beef Burger         4    
+DESSERT202      Vanilla Ice Cream   1    
+FOOD003         Chicken Burger      5    
+DESSERT201      Brownie             1    
+FOOD002         Cheeseburger        3    
+BEVERAGE101     Milk Tea            6    
+DESSERT205      Chocolate Cake      3    
+DESSERT204      Lemon Cake          2    
+BEVERAGE104     Coffee - Americano  1    
+BEVERAGE105     Coffee - Latte      4    
+BEVERAGE102     Coca-Cola           13   
+BEVERAGE103     Coffee - Espresso   1    
+
+
+SUMMARY OF CUSTOMER ORDERS:
+
+ID		Name			 #Orders  Total spent (with discounts)
+10001   Chandler Bing       5     61.15
+10002   Phoebe Buffay       4     31.88
+10003   Joey Tribbiani      5     80.49
+10004   Monica Gellar       3     36.03
+10005   Rachel Green        1     12.50
+10006   Ross Gellar         2     46.91
+
+Total revenue: ��268.96
